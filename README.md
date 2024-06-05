@@ -2,6 +2,7 @@
 Classification is done by 1 hidden layer neural network; implemented in vanilla python, tensorflow and pytorch. In tensorflow/pytorch, different APIs are explored to implement same algorithm.
 <br>
 Blow figure describes the hidden layer neural network architure that is implemented:
+<br>
 ![Neural Network Architecture](img/Slide3.PNG)
 <br>
 Two datasets are used: 2D nonlinear separable and cat/non-cat images.
