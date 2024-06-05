@@ -1,0 +1,3 @@
+__pycache__/
+# under all directories exclude files testing.___ or Testing.___
+**/[Tt]esting.*
